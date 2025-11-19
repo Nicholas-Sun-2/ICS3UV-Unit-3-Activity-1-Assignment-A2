@@ -6,9 +6,9 @@
  */
 
 // Declaring variables
-var volume : number = 1000;
+let volume : number = 1000;
 
-var side_length : number = 10; // We don't have cube root yet.
+let side_length : number = 10; // We don't have cube root yet.
 
 // Printing
 console.log("A cube with volume of " + String(volume) + " mm^3 has a length, width, and height of " + String(side_length) + " mm.");
